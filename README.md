@@ -40,3 +40,11 @@ Optionally, you can also change the following values in the code to set persiste
 
 * **panTiltDuration**: How long a pan or tilt command is allowed to run (in milliseconds). A smaller value means slower webcam movement.
 
+Screenshots
+-----------
+Here are some screenshots:
+
+![FoscamView with controls visible](/../screenshot/FoscamView-controls-visible.png?raw=true)
+
+![FoscamView with controls hidden](/../screenshot/FoscamView-controls-hidden.png?raw=true)
+
